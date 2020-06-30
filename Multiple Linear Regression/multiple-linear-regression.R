@@ -1,7 +1,7 @@
 # Multiple linear regression
 
 # In this example I want to find out which features are involved in the profits of
-# 50 differents startups and how this features are statistically significative.
+# 50 different startups and how these features are statistically significative.
 
 # Importing dataset
 dataset = read.csv('data/50_Startups.csv')
